@@ -86,12 +86,18 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body{
+  background-color: rgb(90, 93, 97);
+}
+
+
+
 .section1{
   background-color: black;
 }
 
 .gray{
-  background-color: rgb(29,24,87);
+  background-color: rgb(21, 49, 87);
   font-family: 'nasa', sans-serif;
   line-height: 2em;
   color: white;
@@ -102,17 +108,36 @@ textarea {
 	box-sizing:border-box;
 
 	border-radius: 25px;
-  border: 2px solid rgb(56,82,164);
+  border: 5px solid white;
  	padding: 30px;
 
 
 }
+
+
 
 header h1{
   font-family: 'nasa', sans-serif;
   text-align: center;
   padding: 0.5em;
   font-size: 3em;
+  background-color: black;
+  color: white;
+}
+
+.infobox1{
+  width:100%;
+  max-width:960px;
+  margin:0px auto;
+  padding:0px;
+  box-sizing:border-box;
+
+  display:flex;
+  flex-wrap:wrap;
+  flex-direction:row;
+  align-content:flex-start;
+  align-items:stretch;
+
 }
 
 
