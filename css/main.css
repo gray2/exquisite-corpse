@@ -87,6 +87,8 @@ textarea {
    Author's custom styles
    ========================================================================== */
 body{
+  background-image: url("../img/bg.gif");
+  background-repeat: repeat;
   background-color: rgb(90, 93, 97);
 }
 
