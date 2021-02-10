@@ -87,9 +87,13 @@ textarea {
    Author's custom styles
    ========================================================================== */
 body{
+  /* bg image from https://thumbs.gfycat.com/BasicWeightyFeline-small.gif */
+  /* cursor image from https://lh3.googleusercontent.com/proxy/Mslh-t3jVZ3mFuclDWKaPT8hAGAcuY07ACLOMxjcX-6qgjk4Y8jiTSLTCA1HfaTagGQIKGcu4kO_MRCdN854cGHwbLIXwbcT */
   background-image: url("../img/bg.gif");
   background-repeat: repeat;
   background-color: rgb(90, 93, 97);
+
+  cursor: url("../img/cursor.ico"), default;
 }
 
 
