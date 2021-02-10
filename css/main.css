@@ -108,6 +108,15 @@ textarea {
 
 }
 
+header h1{
+  font-family: 'nasa', sans-serif;
+  text-align: center;
+  padding: 0.5em;
+  font-size: 3em;
+}
+
+
+/* https://www.dafont.com/nasalization.font */
 @font-face{
     font-family: 'nasa';
   src: url('nasa.eot');
