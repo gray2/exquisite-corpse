@@ -86,6 +86,42 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+.section1{
+  background-color: black;
+}
+
+.gray{
+  background-color: rgb(29,24,87);
+  font-family: 'nasa', sans-serif;
+  line-height: 2em;
+  color: white;
+
+  margin:2%;
+	width:96%;
+	padding:2%;
+	box-sizing:border-box;
+
+	border-radius: 25px;
+  border: 2px solid rgb(56,82,164);
+ 	padding: 30px;
+
+
+}
+
+@font-face{
+    font-family: 'nasa';
+  src: url('nasa.eot');
+
+  src: url('fonts/nasa.eot?#iefix') format('embedded-opentype'),
+       url('fonts/nasa.woff2') format('woff2'),
+       url('fonts/nasa.woff') format('woff'),
+       url('fonts/nasa.ttf') format('truetype'),
+       url('fonts/nasa.svg#nasa') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
 
 /* ==========================================================================
    Helper classes
@@ -260,4 +296,3 @@ textarea {
     page-break-after: avoid;
   }
 }
-
