@@ -98,8 +98,20 @@ body{
 
 
 
-.section1{
-  background-color: black;
+.damean{
+  background-color: rgba(35, 7, 117, 0.5);
+  font-family: 'nasa', sans-serif;
+  line-height: 2em;
+  color: white;
+
+  margin:2%;
+	width:96%;
+	padding:2%;
+	box-sizing:border-box;
+
+
+  border: 5px solid #E0DA60;
+ 	padding: 30px;
 }
 
 .gray{
