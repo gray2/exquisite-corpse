@@ -16,3 +16,8 @@
 
     CSS3, HTML5
     Apache Server Configs, jQuery, Modernizr, Normalize.css
+
+
+# SITE
+  <software: atom, github, bash, cl>
+  <last update: 2021/02>
