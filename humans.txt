@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <Damean Rittmann> -- <role>
+    <Damean Rittmann> -- <404, respective css>
     <Aidan Quade> -- <role>
     <Isabella Macdonald> -- <role>
     <Gray Assi> -- <icons, humans.txt, respective css>
