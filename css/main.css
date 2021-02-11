@@ -132,6 +132,10 @@ body{
 
 }
 
+.hidden{
+  display: none;
+}
+
 
 
 header h1{
