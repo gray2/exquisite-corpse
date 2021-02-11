@@ -136,6 +136,19 @@ body{
   display: none;
 }
 
+.halfwidth{
+	background-color:rgb(180,180,180);
+	margin:2%;
+	width:46%;
+	padding:2%;
+	box-sizing: border-box;
+
+	border-radius: 25px;
+  	border: 2px ;
+ 	padding: 20px;
+
+}
+
 
 
 header h1{
