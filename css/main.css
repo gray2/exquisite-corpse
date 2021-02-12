@@ -221,6 +221,21 @@ header h1{
 
 }
 
+.infobox2{
+  width:100%;
+  max-width:960px;
+  margin:0px auto;
+  padding:0px;
+  box-sizing:border-box;
+
+  display:flex;
+  flex-wrap:wrap;
+  flex-direction:row;
+  align-content:flex-start;
+  align-items:stretch;
+
+}
+
 
 /* https://www.dafont.com/nasalization.font */
 @font-face{
