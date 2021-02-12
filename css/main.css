@@ -155,9 +155,9 @@ body{
   --transition-speed: 2.2s;
 }
 
-.gray2 { 
-  width: var(--width);
-  height: var(--width);
+.gray2 {
+  width: 960px;
+  height: 1080px;
 }
 
 .x {
@@ -169,12 +169,12 @@ body{
 
 @keyframes x {
   100% {
-    transform: translateX(calc(100vw - var(--width)));
+    transform: translateX(calc(100vw - 960px));
   }
 }
 @keyframes y {
   100% {
-    transform: translateY(calc(100vh - var(--width)));
+    transform: translateY(calc(100vh - 1080px));
   }
 }
 
