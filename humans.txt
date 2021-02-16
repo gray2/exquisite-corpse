@@ -8,7 +8,7 @@
 # THANKS
 
     <Damean Rittmann> -- <404, respective css>
-    <Aidan Quade> -- <role>
+    <Aidan Quade> -- <story themes, respective css, writing>
     <Isabella Macdonald> -- <role>
     <Gray Assi> -- <icons, humans.txt, respective css>
 
