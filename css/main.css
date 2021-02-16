@@ -113,6 +113,21 @@ body{
   border: 5px solid #E0DA60;
  	padding: 30px;
 }
+.aidan {
+font-family: 'nasa', sans-serif;
+background-color: rgba(40, 101, 176);
+line-height: 2em;
+
+color: white;
+margin:2%;
+width:96%;
+padding:2%;
+box-sizing: border-box;
+border: 5px solid white;
+border-radius: 25px;
+padding: 30px;
+
+}
 
 .isabella{
   background-color: rgb(3, 13, 43);
@@ -202,8 +217,9 @@ header h1{
   text-align: center;
   padding: 0.5em;
   font-size: 3em;
-  background-color: black;
+  background-color: rgb(3,13,22);
   color: white;
+  box-sizing:
 }
 
 .infobox1{
