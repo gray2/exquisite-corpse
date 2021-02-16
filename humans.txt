@@ -3,7 +3,10 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+  <Damean Rittmann> -- <404, respective css>
+  <Aidan Quade> -- <role>
+  <Isabella Macdonald> -- <og meta tags, respective css>
+  <Gray Assi> -- <icons, humans.txt, respective css>
 
 # THANKS
 
