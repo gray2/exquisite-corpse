@@ -219,7 +219,7 @@ header h1{
   font-size: 3em;
   background-color: rgb(3,13,22);
   color: white;
-  box-sizing:
+  box-sizing: border-box;
 }
 
 .infobox1{
